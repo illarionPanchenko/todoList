@@ -1,0 +1,26 @@
+.todo-list-item{
+    font-size: 30px;
+    cursor: pointer;
+}
+.flex-div{
+    display: flex;
+    justify-content: space-around;
+}
+.div-children1{
+    width:70%;
+}
+.div-children2{
+    display: flex;
+    align-items: center;
+}
+.btn1{
+    width:40px;
+    margin-left: 10px;
+}
+.done{
+    text-decoration: line-through;
+}
+.important{
+    color: royalblue;
+    font-weight: bold;
+}

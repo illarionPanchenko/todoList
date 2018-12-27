@@ -1,0 +1,12 @@
+.add-item{
+    margin:10px;
+}
+.add-item-div{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-control{
+    margin:10px;
+}

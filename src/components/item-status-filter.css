@@ -1,0 +1,8 @@
+.isf{
+    padding: .25rem .75rem;
+    display: flex;
+    align-items: flex-end;
+}
+.btn-group{
+    margin-left: 6px;
+}
